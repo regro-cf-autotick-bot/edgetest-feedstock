@@ -22,10 +22,11 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=14704&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/edgetest-feedstock?branchName=main">
+      <a href="https://github.com/conda-forge/edgetest-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/edgetest-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
       </a>
     </td>
   </tr>
@@ -156,4 +157,5 @@ Feedstock Maintainers
 * [@fdosani](https://github.com/fdosani/)
 * [@gladysteh99](https://github.com/gladysteh99/)
 * [@jdawang](https://github.com/jdawang/)
+* [@rhaffar](https://github.com/rhaffar/)
 
